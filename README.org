@@ -1,0 +1,10 @@
+* cl-cram
+
+Simple and Animated ProgressBar library for Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/hikettei/cl-cram.git   |
+| commit  | ec399ff  |
+| systems | cl-cram |
+|---------+-------------------------------------------|
+
